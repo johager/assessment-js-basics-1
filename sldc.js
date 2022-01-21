@@ -26,6 +26,6 @@ const design = "Create a plan to implement the requirements. This can include a 
 
 const implementation = 'Code up the "design" in whatever stack(s) will be used.'
 
-const testingAndIntegration = `Test the code developed in "implementation" to make sure it operates correctly: doesn't crash, gets the appropriate input, provides correct output, and/or stores the correct data).`
+const testingAndIntegration = `Test the code developed in "implementation" to make sure it operates correctly: doesn't crash, gets the appropriate input, provides correct output, and/or stores the correct data). Deploy the code to the live environment.`
 
 const maintain = `Maintain the code going forward: fix bugs because the implementation didn't account for certain "odd" input, make changes due to OS changes/requirements, add additional features.`
